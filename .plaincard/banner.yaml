@@ -1,0 +1,14 @@
+kind: banner
+name: Bayesian-Statistics-Algorithms
+line: My assignments for a statistics course at the University of Tennessee.
+accent: violet
+diagram:
+- doc:
+    label: data
+- arrow
+- box:
+    text: notebooks
+- arrow
+- chart:
+    label: results
+    accent: true
